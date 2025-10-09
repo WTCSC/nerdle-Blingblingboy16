@@ -17,7 +17,7 @@ def display_welcome_message():
     print()
     print("GAME RULES:")
     print("- Guess the 8-character math equation")
-    print("- You have 6 attempts to get it right")
+    print(" - You have 6 attempts to get it right")
     print("- Each equation has the format: NN+NN=NN (or -, *, /)")
     print("- After each guess, you'll get color-coded feedback:")
     print("  * \033[42m\033[30m Green \033[0m: Correct character in correct position")
